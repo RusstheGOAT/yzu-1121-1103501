@@ -154,4 +154,4 @@ struct ContentView_Previews: PreviewProvider {
 
     
 ```
-(https://youtube.com/shorts/lYQz3kTgE80)
+[HW2-demo](https://youtube.com/shorts/lYQz3kTgE80)
