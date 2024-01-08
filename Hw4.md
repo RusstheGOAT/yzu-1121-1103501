@@ -2,6 +2,7 @@
 <table>
    <tr>
       <td>
+         
 ```swift
 import SwiftUI
 
@@ -42,6 +43,7 @@ struct ContentView: View {
             .background(Color.clear)
     }
 }
+
 ```
       </td>
    </tr>
@@ -49,6 +51,7 @@ struct ContentView: View {
 <table>
    <tr>
       <td>
+         
 ```swift
 import SwiftUI
 
@@ -86,6 +89,7 @@ struct WelcomeView: View {
         }
     }
 }
+
 ```
       </td>
    </tr>
@@ -93,6 +97,7 @@ struct WelcomeView: View {
 <table>
    <tr>
       <td>
+         
 ```swift
 import SwiftUI
 
@@ -242,6 +247,7 @@ struct dismissbutton: View {
         }
     }
 }
+
 ```
       </td>
    </tr>
