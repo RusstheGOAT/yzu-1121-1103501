@@ -45,7 +45,6 @@ struct ContentView: View {
 }
 
 ```
-      </td>
    </tr>
 </table>
 <table>
@@ -91,7 +90,6 @@ struct WelcomeView: View {
 }
 
 ```
-      </td>
    </tr>
 </table>
 <table>
@@ -249,7 +247,6 @@ struct dismissbutton: View {
 }
 
 ```
-      </td>
    </tr>
 </table>
 <table>
@@ -399,7 +396,6 @@ struct DismissButton: View {
     }
 }
 ```
-      </td>
    </tr>
 </table>
 <table>
