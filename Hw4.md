@@ -457,7 +457,6 @@ struct SettingView: View {
     }
 }
 ```
-      </td>
    </tr>
 </table>
-[HW4-demo]([https://youtube.com/shorts/lYQz3kTgE80](https://youtu.be/Ac2H4Aq185c)https://youtu.be/Ac2H4Aq185c)
+[微型作業4demo]([https://youtube.com/shorts/lYQz3kTgE80](https://youtu.be/Ac2H4Aq185c)https://youtu.be/Ac2H4Aq185c)
