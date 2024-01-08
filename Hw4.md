@@ -459,4 +459,4 @@ struct SettingView: View {
 ```
    </tr>
 </table>
-[微型作業4demo](https://youtube.com/shorts/lYQz3kTgE80](https://youtu.be/Ac2H4Aq185c)https://youtu.be/Ac2H4Aq185c)
+[微型作業4demo](https://youtu.be/Ac2H4Aq185c)
